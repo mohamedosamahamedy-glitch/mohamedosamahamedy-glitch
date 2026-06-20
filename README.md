@@ -4,8 +4,8 @@
 
 📍 Cairo, Egypt &nbsp;|&nbsp; 📧 mohamedosama01005045063@gmail.com &nbsp;|&nbsp; 📞 +20 1014546662
 
-[![LinkedIn](https://www.linkedin.com/in/mohamed-osama-fullstack/)
-[![GitHub](https://github.com/mohamedosamahamedy-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-osama-fullstack/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedosamahamedy-glitch)
 
 ---
 
@@ -60,8 +60,8 @@ I turn raw datasets into clear, actionable insights using SQL, Excel, and Python
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedosamahamedy-glitch&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedosamahamedy-glitch&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
