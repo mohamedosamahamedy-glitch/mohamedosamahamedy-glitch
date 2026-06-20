@@ -4,8 +4,8 @@
 
 📍 Cairo, Egypt &nbsp;|&nbsp; 📧 mohamedosama01005045063@gmail.com &nbsp;|&nbsp; 📞 +20 1014546662
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://www.linkedin.com/in/mohamed-osama-fullstack/)
+[![GitHub](https://github.com/mohamedosamahamedy-glitch)
 
 ---
 
