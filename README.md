@@ -21,11 +21,16 @@ I turn raw datasets into clear, actionable insights using SQL, Excel, and Python
 
 ---
 
-Tool / Technology,Skills
-SQL Server,"SELECT, JOINs, GROUP BY, HAVING, CTEs, Window Functions (ROW_NUMBER, RANK, OVER), Date Functions (DATEPART, DATEDIFF, CAST), Aggregation & Reporting"
-Excel,"Pivot Tables & Charts, VLOOKUP / XLOOKUP, Conditional Formatting, Data Cleaning, Interactive Dashboards"
-Power BI,"Data Modeling, DAX Basics, Interactive Dashboards, Data Transformation (Power Query), Reports & Visualizations"
-Python,"Basics, Data Analysis (NumPy, Pandas)"
+## 🛠️ Technical Skills
+
+| Tool / Technology | Skills |
+|---|---|
+| **SQL Server** | SELECT, JOINs, GROUP BY, HAVING, CTEs, Window Functions (ROW_NUMBER, RANK, OVER), Date Functions (DATEPART, DATEDIFF, CAST), Aggregation & Reporting |
+| **Excel** | Pivot Tables & Charts, VLOOKUP / XLOOKUP, Conditional Formatting, Data Cleaning, Interactive Dashboards |
+| **Power BI| Data Modeling, DAX Basics, Power Query, Interactive Dashboards, Report Building
+| **Python** | Basics, Data Analysis (NumPy, Pandas) |
+
+
 ---
 
 ## 📂 Projects
